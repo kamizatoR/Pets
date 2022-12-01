@@ -15,7 +15,7 @@
 
 ## 設計書
 
-##実装機能リストURL
+## 実装機能リストURL
 https://docs.google.com/spreadsheets/d/1eZPvaSIHPtmfI0JXseQBzt-v-HPmitPG50GMibdBY9s/edit#gid=1898975908
 
 ## 開発環境
