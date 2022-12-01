@@ -26,5 +26,5 @@ https://docs.google.com/spreadsheets/d/1eZPvaSIHPtmfI0JXseQBzt-v-HPmitPG50GMibdB
 - IDE：Cloud9
 
 ## 使用素材
-*検討中です。
+* 検討中です。
 
